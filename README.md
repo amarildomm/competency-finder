@@ -1,2 +1,10 @@
-# experts-finder
-Tool to represent organization employees knowledge and retrieve the best experts given some criteria
+# IFMG EXPERTS FINDER #
+
+* IFMG is a Brazilian institute of technical education http://www.ifmg.edu.br
+* Represent IFMG employees knowledge stored in Lattes Resumes using word2vec and generate a expert ranking given some keywords using tf-idf method
+* Lattes is the largest public resume database. It contains more than 3 million resumes - http://lattes.cnpq.br/
+* 1.0
+* Amarildo Magalhães
+* Federal University of Minas Gerais
+* Professor Renato Souza
+* November/2017
